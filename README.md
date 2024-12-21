@@ -1,4 +1,4 @@
-<h1>Hi, My Name is Gabriel! IT Professional and Cybersecurity enthusiast.</h1>
+<h1>Hi, My Name is Gabriel! IT Professional and Cybersecurity Professional.</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
