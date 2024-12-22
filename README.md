@@ -4,6 +4,15 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/GGonzalez1993/AzureLab-SOC)
+ 
+
+<h2>Current Education:</h2>
+![logo_vertical-2](https://github.com/user-attachments/assets/4f2d2337-a1a3-4089-a876-24b254dbd681)
+
+
+- <b>Austin Community College</b>
+  - A.S. General Education (Graduated 2024)
+
 
 <h2> 🤳 Connect with me:</h2>
 
