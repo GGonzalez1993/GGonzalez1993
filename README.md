@@ -6,7 +6,8 @@
   - [Creating a live SOC / Honeynet in Azure](https://github.com/GGonzalez1993/AzureLab-SOC)
 
 
-<h2>Current Education:</h2>
+
+<h2>🏫 Current Education:</h2>
 
 <img src="https://github.com/user-attachments/assets/8846f936-2d22-407d-85c3-197f3355e08e" alt="acclogo" width="150" height="100">
 
@@ -17,6 +18,31 @@
 
 - <b>Western Governors University (WGU)<b>
   - B.S. Cybersecurity and Information Assurance (Projected to graduate early 2025)
+
+
+
+<h2> 📃 Current Certifications:</h2>
+
+- <b>CompTIA Certifications<b>
+  - A+
+  - Net+
+  - Sec+
+  - CySA+
+ 
+- <b>ISC^2 Certifications<b>
+  - Associate of ISC^2 (SSCP)
+ 
+- <b>Linux Professional Institute (LPI)<b>
+  - Linux Essentials Certification
+ 
+- <b>AXELOS<b>
+  - ITILv4 Foundations 
+
+
+
+<h2>🔭 I’m currently working on ...<h2>
+
+
 
 
 <h2> 🤳 Connect with me:</h2>
