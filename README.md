@@ -36,12 +36,20 @@
   - Linux Essentials Certification
  
 - <b>AXELOS<b>
-  - ITILv4 Foundations 
+  - ITILv4 Foundations
+ 
+    
 
+<h2>🔭 I’m currently working on ...</h2>
 
+- <b>Obtaining these following certification:<b>
+  - CompTIA Linux+
+  - CompTIA Pentest+
+  - CompTIA Project+
+  - ISC^2 CCSP
 
-<h2>🔭 I’m currently working on ...<h2>
-
+- <b>Completing the following lab(s):<b>
+  - Vulnerability Management W/ Tenable
 
 
 
