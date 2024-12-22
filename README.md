@@ -7,7 +7,7 @@
 
 
 
-<h2>🏫 Current Education:</h2>
+<h2>🏫 My Education:</h2>
 
 <img src="https://github.com/user-attachments/assets/8846f936-2d22-407d-85c3-197f3355e08e" alt="acclogo" width="150" height="100">
 
@@ -21,7 +21,7 @@
 
 
 
-<h2> 📃 Current Certifications:</h2>
+<h2> 📃 Earned/Current Certifications:</h2>
 
 - <b>CompTIA Certifications<b>
   - A+
