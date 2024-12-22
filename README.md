@@ -7,7 +7,7 @@
  
 
 <h2>Current Education:</h2>
-
+![ACC Logo](/GGonzalez1993/
 - <b>Austin Community College</b>
   - A.S. General Education (Graduated 2024)
 
