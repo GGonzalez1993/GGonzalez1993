@@ -42,6 +42,8 @@
 
 <h2>🔭 I’m currently working on ...</h2>
 
+<img src="https://github.com/user-attachments/assets/07088cb4-2481-4190-afbc-923b1a72e94e" alt="wgulogo" width="300" height="200">
+
 - <b>Obtaining these following certification:<b>
   - CompTIA Linux+
   - CompTIA Pentest+
