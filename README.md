@@ -4,12 +4,19 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/GGonzalez1993/AzureLab-SOC)
- 
+
 
 <h2>Current Education:</h2>
-![ACC Logo](/GGonzalez1993/
+
+<img src="https://github.com/user-attachments/assets/8846f936-2d22-407d-85c3-197f3355e08e" alt="acclogo" width="150" height="100">
+
 - <b>Austin Community College</b>
   - A.S. General Education (Graduated 2024)
+
+<img src="https://github.com/user-attachments/assets/76584cda-ab69-4902-af3a-44371a4fb103" alt="wgulogo" width="150" height="100">
+
+- <b>Western Governors University (WGU)<b>
+  - B.S. Cybersecurity and Information Assurance (Projected to graduate early 2025)
 
 
 <h2> 🤳 Connect with me:</h2>
