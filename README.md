@@ -52,6 +52,7 @@
 
 - <b>Completing the following lab(s):<b>
   - Vulnerability Management W/ Tenable
+  - Threat Hunting, SecOps, and Incident Response
 
 
 
